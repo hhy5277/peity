@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Unreleased
+
+ * Switch to UglifyJS and remove Java dependency.
+
 ## Version 3.2.1 - 2016-10-10
 
  * Ensure NPM package includes only required files.
